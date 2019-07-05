@@ -27,3 +27,9 @@ mark {
 .Navbar-logo {
   height: 3rem;
 }
+
+.no-results {
+  margin-top: 2rem;
+  width: 100%;
+  font-size: 2rem;
+}
